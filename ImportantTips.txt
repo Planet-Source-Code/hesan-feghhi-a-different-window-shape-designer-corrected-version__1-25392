@@ -1,0 +1,19 @@
+Tips when using HN Form Shape Designer:
+
+1)You can draw as many polygons as you want, all of them will be combined.
+
+2)If you want to draw polygons and also choose the background, choose the
+  background first, because in every background change, polylines will be
+  reset.
+
+3)Masking a Picture is not a good way, because it makes the program
+  initialization slow.
+
+4)Whenever you are finished with a polygon, Right-click to close it.
+
+5)Do not affect a form more than one time with the same "Shaper Procedure Name"
+
+6)Always add Region.bas to your project or copy-paste the text in the bottom of the
+  Procedure.
+
+7)Good Luck!
